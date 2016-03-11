@@ -1,8 +1,8 @@
-group 'com.aviraldg'
-version '1.0-SNAPSHOT'
-
+apply plugin: 'maven'
 apply plugin: 'java'
 apply plugin: 'kotlin'
+
+group 'com.aviraldg'
 
 sourceCompatibility = 1.5
 
