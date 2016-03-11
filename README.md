@@ -13,7 +13,7 @@ To install, add:
         maven { url "https://jitpack.io" }
    }
    dependencies {
-         compile 'com.aviraldg:textable:master-SNAPSHOT'
+         compile 'com.aviraldg:textable:1.0.0'
    }
    ```
 
