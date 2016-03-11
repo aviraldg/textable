@@ -1,7 +1,7 @@
 Textable
 ========
 
-[![](https://jitpack.io/v/com.aviraldg/textable.svg)](https://jitpack.io/#com.aviraldg/textable)
+[![Release](https://jitpack.io/v/com.aviraldg/textable.svg)](https://jitpack.io/#com.aviraldg/textable) [![Build Status](https://travis-ci.org/aviraldg/textable.svg?branch=master)](https://travis-ci.org/aviraldg/textable)
 
 A basic library for creating pure-text tables written in Kotlin.
 
