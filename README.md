@@ -19,7 +19,7 @@ To install, add:
 
 Usage:
 
-    textable {
+    val t = textable {
         row {
             cell("Number")
             cell("Alphabet")
@@ -32,4 +32,4 @@ Usage:
         }
     }
 
-    println(textable)
+    println(t)
